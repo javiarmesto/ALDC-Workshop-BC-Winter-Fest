@@ -1,9 +1,18 @@
 # 🎓 Workshop: Desarrollo AL con IA para Business Central
 
+## Edición del material
+
+Este taller conserva el recorrido de referencia **BC24+ / ALDC 2.9+**. Esas referencias describen la edición del ejercicio, no la versión actual del toolkit. Para una instalación actual consulta [ALDC canónico](https://github.com/javiarmesto/ALDC-AL-Development-Collection#installation); los nombres de agentes y comandos del recorrido histórico pueden variar.
+
+Empieza por [equipamiento](ejercicio-01-equipamiento/README.md), continúa con [eventos](ejercicio-02-eventos/README.md) y termina con [incidencias](ejercicio-03-incidencias/README.md). Necesitas VS Code, AL Language, Copilot y un sandbox; cada guía define requisitos, configuración, código de referencia y comprobaciones. `plantillas/` y `recursos/` contienen material de apoyo.
+
+El resultado esperado es publicar la solución de cada ejercicio en tu sandbox y probar sus criterios; los tiempos anunciados son estimaciones docentes. No se han ejecutado los ejercicios durante esta revisión estática del 6 de octubre de 2026. Conserva la edición original o documenta cualquier adaptación en tu copia.
+
+
 > **Aprende a construir extensiones de Business Central usando GitHub Copilot y AL Development Collection**
 
 [![BC Version](https://img.shields.io/badge/Business%20Central-v24+-blue)](https://docs.microsoft.com/dynamics365/business-central/)
-[![AL Development Collection](https://img.shields.io/badge/ALDC-v2.9+-green)](https://github.com/javiarmesto/AL-Development-Collection-for-GitHub-Copilot)
+[![AL Development Collection](https://img.shields.io/badge/ALDC-v2.9+-green)](https://github.com/javiarmesto/ALDC-AL-Development-Collection)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > [!TIP]
