@@ -78,9 +78,8 @@ Al finalizar serás capaz de:
 # Opción A: Desde VS Code Marketplace
 # Buscar "AL Development Collection" e instalar
 
-# Opción B: Desde NPM
-npm install github:javiarmesto/AL-Development-Collection-for-GitHub-Copilot
-npx al-collection install
+# Opción B: Instalar la extensión actual para VS Code
+code --install-extension javierarmestogonzalez.al-development-collection
 ```
 
 ### 2. Verificar Instalación
